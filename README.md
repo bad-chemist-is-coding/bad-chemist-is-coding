@@ -1,8 +1,8 @@
 <h1 align = center>
-    ÁNH
+   🔥 ÁNH 🔥
   </h1>
     <h2>
-      My purpose
+      👉 My purpose 👈
     </h2>
     <p align = center>
       I'm <br>
@@ -19,7 +19,7 @@
       Codes.<br>
     </p>
     <h2>
-        My REAL purpose
+        👉 My REAL purpose 👈
     </h2>
     <p>
         I'm open to new knowledge so I take learning codes as and a puzzle and hobby <br>
@@ -29,14 +29,14 @@
     </p>
     
   <h2>
-    Technology things I'm learning (and can use)
+    👉 Technology things I'm learning (and can use) 👈
   </h2>
   <p align = center>
-        <img src="/img/icons8-html-48.png" alt="html" style="width: 49px">
-        <img src="/img/icons8-css-48.png" alt="html">
-        <img src="/img/icons8-python-48.png" alt="python">
-        <img src="/img/icons8-photoshop-48.png" alt="pts">
-        <img src="/img/icons8-adobe-premiere-pro-48.png" alt="pts">
+        <img src="Cốt linh tinh/img/icons8-html-48.png" alt="html" style="width: 49">
+        <img src="Cốt linh tinh/img/icons8-css-48.png" alt="css">
+        <img src="Cốt linh tinh/img/icons8-python-48.png" alt="python">
+        <img src="Cốt linh tinh/img/icons8-photoshop-48.png" alt="pts">
+        <img src="Cốt linh tinh/img/icons8-adobe-premiere-pro-48.png" alt="pr">
         
 
 

@@ -1,6 +1,6 @@
-<center><h1>
+<h1 align="center" color="red">
   ÁNH
-</h1></center>
+</h1>
   <h2>
     My purpose
   </h2>

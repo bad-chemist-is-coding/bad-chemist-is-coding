@@ -32,11 +32,11 @@
     👉 Technology things I'm learning (and can use) 👈
   </h2>
   <p align = center>
-        <img src="Cốt linh tinh/img/icons8-html-48.png" alt="html" style="width: 49">
-        <img src="Cốt linh tinh/img/icons8-css-48.png" alt="css">
-        <img src="Cốt linh tinh/img/icons8-python-48.png" alt="python">
-        <img src="Cốt linh tinh/img/icons8-photoshop-48.png" alt="pts">
-        <img src="Cốt linh tinh/img/icons8-adobe-premiere-pro-48.png" alt="pr">
+        <code><img src="https://github.com/bad-chemist-is-coding/Code-saving/blob/main/C%E1%BB%91t%20linh%20tinh/img/icons8-adobe-premiere-pro-48.png"></code>
+        <code><img src="https://github.com/bad-chemist-is-coding/Code-saving/blob/main/C%E1%BB%91t%20linh%20tinh/img/icons8-css-48.png" alt="css"></code>
+        <code><img src="https://github.com/bad-chemist-is-coding/Code-saving/blob/main/C%E1%BB%91t%20linh%20tinh/img/icons8-html-48.png" alt="python"></code> 
+        <code><img src="https://github.com/bad-chemist-is-coding/Code-saving/blob/main/C%E1%BB%91t%20linh%20tinh/img/icons8-photoshop-48.png" alt="pts"></code>
+        <code><img src="https://github.com/bad-chemist-is-coding/Code-saving/blob/main/C%E1%BB%91t%20linh%20tinh/img/icons8-python-48.png" alt="pr"></code>
         
 
 

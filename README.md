@@ -37,6 +37,7 @@
         <code><img src="https://github.com/bad-chemist-is-coding/Code-saving/blob/main/C%E1%BB%91t%20linh%20tinh/img/icons8-html-48.png" alt="python"></code> 
         <code><img src="https://github.com/bad-chemist-is-coding/Code-saving/blob/main/C%E1%BB%91t%20linh%20tinh/img/icons8-photoshop-48.png" alt="pts"></code>
         <code><img src="https://github.com/bad-chemist-is-coding/Code-saving/blob/main/C%E1%BB%91t%20linh%20tinh/img/icons8-python-48.png" alt="pr"></code>
+        <code><img src="https://github.com/bad-chemist-is-coding/Cursed-products-from-Ann/blob/main/C%E1%BB%91t%20linh%20tinh/img/icons8-autocad-48.png" alt="pr"></code>
         
 
 
